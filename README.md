@@ -15,10 +15,10 @@ More information and additional material can be found here [Summary of Tutorials
 ## Exercises
 - Week 1
   - [Exercise 1: Introduction to Python - Part 1](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/exercises/Exercise_1.ipynb) 
- <!---    - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/solutions/Exercise_1_Solution.ipynb)
+  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/solutions/Exercise_1_Solution.ipynb)
 - Week 2
   - [Exercise 2: Introduction to Python - Part 2](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/exercises/Exercise_2.ipynb)
-  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/solutions/Exercise_2_Solution.ipynb)
+  <!---   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/solutions/Exercise_2_Solution.ipynb)
 - Week 3
   - [Exercise 3: Data Visualization and Analysis](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/exercises/Exercise_3.ipynb)
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/solutions/Exercise_3_Solution.ipynb)
