@@ -21,11 +21,11 @@ More information and additional material can be found here [Summary of Tutorials
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/solutions/Exercise_2_Solution.ipynb)
 - Week 3
   - [Exercise 3: Data Visualization and Analysis](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/exercises/Exercise_3.ipynb)
-   <!---  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/solutions/Exercise_3_Solution.ipynb)
+   <!---  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/solutions/Exercise_3_Solution.ipynb) -->
 - Week 4
   - [Lecture 4: Convolutions](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/lectures/Lecture_4.ipynb)
   - [Exercise 4: Convolutions](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/exercises/Exercise_4.ipynb)
-  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/solutions/Exercise_4_Solution.ipynb)
+   <!---  - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/solutions/Exercise_4_Solution.ipynb)
 - Week 5
   - [Exercise 5: Metrics and Object Oriented Programming](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/exercises/Exercise_5.ipynb)
   - [Solution](https://colab.research.google.com/github/CS4MS/CS4MS_W23/blob/main/solutions/Exercise_5_Solution.ipynb)
